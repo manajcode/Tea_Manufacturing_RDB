@@ -3,11 +3,14 @@ The Tea Manufacturing Relational Database is the creation of a hypothetical rela
 
 There are four items contained in this folder:
 
-ea.v4.sql: The sql code used to construct a database of tea-manufacturing information.
+1. tea.v4.sql: The sql code used to construct a database of tea-manufacturing information.
 
-NOTE: The information provided is completely false data and is not related to any real-world infomation. I created false data for the purpose of learning how to create a database in mysql.
+NOTE: The information is completely false data and is neither related to any real-world infomation nor taken from any published sources. I created false data for the purpose of learning how to create a database in mysql.
 
-Tea.mwb and tea.mwb.bak: These files are needed to create a visual schema of the database in mysql.
+2. Tea.mwb: The MySQL database design file.
 
-phase4.sql: A series of SQL queries I created for the tea database.
+3. tea.mwb.bak: A file needed to create a visual schema of the database in MySQL.
+
+4. phase4.sql: A series of SQL queries I created for the tea database.
+
 
